@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.styled-btn {
+    padding: 12px 25px;               /* Add padding around the button */
+    border: 2px solid #333;           /* Add a border */
+    background-color: #4CAF50;        /* Set background color */
+    color: white;                     /* Set text color */
+    font-size: 16px;                   /* Set font size */
+    cursor: pointer;                  /* Change the cursor to a pointer */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+.styled-btn:hover {
+    background-color: #45a049;        /* Change background color on hover */
+}

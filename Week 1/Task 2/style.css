@@ -1,0 +1,13 @@
+.image-container {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+figcaption {
+    font-size: 14px;
+    color: #888;
+}

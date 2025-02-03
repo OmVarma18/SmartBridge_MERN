@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Verdana', sans-serif;  /* Different font family */
+    line-height: 1.6;                   /* Adjust line height for readability */
+    text-align: justify;                /* Align text in a justified manner */
+}
